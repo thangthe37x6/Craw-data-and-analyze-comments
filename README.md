@@ -20,3 +20,6 @@ pip install requirement.txt
 ## 4 run all 
 
 Access the ex1.ipynb file and run all the instructions I wrote in there
+
+### reference 
+https://keras.io/examples/nlp/text_classification_with_transformer/
